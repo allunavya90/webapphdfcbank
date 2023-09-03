@@ -35,6 +35,12 @@
       <version>2.2.0</version>
     </dependency>
     <dependency>
+    <groupId>org.webjars.npm</groupId>
+    <artifactId>googlemaps__js-api-loader</artifactId>
+    <version>1.16.2</version>
+    </dependency>
+    <dependency>
+      
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-servlet-service-components</artifactId>
       <version>1.0.0</version>
@@ -44,6 +50,7 @@
       <artifactId>cocoon-template-impl</artifactId>
       <version>1.1.0</version>
     </dependency>
+   
     <dependency>
       <groupId>org.apache.cocoon</groupId>
       <artifactId>cocoon-flowscript-impl</artifactId>
